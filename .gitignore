@@ -1,0 +1,3 @@
+.env
+config/proxies/*.txt
+node_modules/
